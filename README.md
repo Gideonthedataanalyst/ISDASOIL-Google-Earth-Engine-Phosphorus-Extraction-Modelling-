@@ -1,1 +1,6 @@
-# ISDASOIL-Google-Earth-Engine-Phosphorus-Extraction-Modelling-
+# ISDASOIL-Google-Earth-Engine-Phosphorus-Extraction-Modelling-![Phosphorous mean in Kenya,( 0-20) cm](https://github.com/user-attachments/assets/c1b7d14e-7bff-47e3-b353-7b95446eb122)
+![Phosphorous mean in Kenya,( 20-50) cm](https://github.com/user-attachments/assets/2ba5e9a5-d4fa-4401-aedc-a1787e583808)
+![Phosphorous standard deviation in Kenya,( 0-20) cm](https://github.com/user-attachments/assets/12d2b3b2-18b7-4cfb-a52a-42754e608778)
+![Phosphorous standard deviation in Kenya,( 20-50) cm](https://github.com/user-attachments/assets/1da48cc0-3908-4c17-9a82-06115d6384ac)
+![Phosphorous mean in,( 0-20) cm](https://github.com/user-attachments/assets/0abc48f9-6ac9-489f-87a2-72505cc95224)
+![Sample point](https://github.com/user-attachments/assets/190eed39-8c28-4709-a4af-160133e4c066)
